@@ -1,4 +1,4 @@
-## Hi, I'm Matt 👋👨‍💻
+## Hi, I'm Matt 👋🏻🧑🏻‍💻
 
 I'm a Freelance Software Developer @ Handy Development Ltd. I build websites, web applications and I am passionate about game development.
 
