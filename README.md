@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### - 🌱 I’m currently learning on Boot.dev:
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/abf58d88-403b-4211-a671-f7a1dbcbd77a/thumbnail" >
+</p>
+
 <!--
 **HandMatt/HandMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
